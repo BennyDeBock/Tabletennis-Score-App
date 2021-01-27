@@ -33,21 +33,21 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - **Ga naar wedstrijdblad:** Go to the score view without printing game letters **SHOULD ONLY WORK IF ALL INFORMATION IS FILLED IN**
 
 ## Landing page (Cup Match)
-![Landing Page Cup](/Layout/FirstPanelCup.png)
+![Landing Page Cup](/Layout/FirstPanelCup.PNG)
   
 ### Changes
 - Afdeling dissappears. Can't be filled in anymore
 - Geef ronde in: New dropdown bar, you have to choose from a pre-defined list
 
 ## Landing page (Masters Match)
-![Landing Page Masters](/Layout/FirstPanelMasters.png)
+![Landing Page Masters](/Layout/FirstPanelMasters.PNG)
 
 ### Changes
 - Afdeling dissappears. Can't be filled in anymore
 - Only allowed to choose 2 players instead of 3
 
 ## Scoring page (Regular)
-![Scoring page](/Layout/ScorePanel.png)
+![Scoring page](/Layout/ScorePanel.PNG)
 
 ### Rules
 - Team, Player, Rank, Value and Teamvalue have to be transfered from the landing page
@@ -62,14 +62,14 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - **Ingave controleren en wedstrijdblad afprinten:** Checks all scores/matches for any fault. Gives an error message and highlights the mistakes if there are mistakes. Otherwise, print the game paper.
 
 ## Scoring page (Cup Match)
-![Scoring page Cup](/Layout/ScorePanelCup.png)
+![Scoring page Cup](/Layout/ScorePanelCup.PNG)
 
 ### Changes
 - **Voorgift:** automatically calculate advantage based on difference in player's values
 - **Ingave controleren:** checks for mistakes according to the rules of a cup match
 
 ## Scoring page (Masters Match)
-![Scoring page Masters](/Layout/ScorePanelMasters.png)
+![Scoring page Masters](/Layout/ScorePanelMasters.PNG)
 
 ### Changes
 - **Voorgift:** automatically calculate advantage based on difference in player's values
@@ -79,13 +79,13 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 # Before printing the game paper
 
 ## Ending hour of the game
-![End hour](/Layout/HourEnd.png)
+![End hour](/Layout/HourEnd.PNG)
 
 ### Rules
 - Has to be manually given in the format XXuYY where XX = hours and YY = minutes
 
 ## Eventual accidents
-![Accidents](/Layout/Accidents.png)
+![Accidents](/Layout/Accidents.PNG)
 
 ### Rules
 - Prompt Yes or no for eventual accidents/comments
