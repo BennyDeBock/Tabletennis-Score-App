@@ -10,6 +10,25 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - Automatic member retrieval
 - Automatic filling in of the home team name
 
+# Rules of scoring
+## Regular games
+- A match is decided by best of 5 games
+- Every player starts at 0-0 and the first one to reach 11 wins.
+- If it's setpoint with a less than 2 point difference (for example 10-10) then the set continues until one of the players gets a 2 point advantage (example: 12-14)
+- The max amount of winning sets can be 3 for one of the players in the confrontation
+
+## Cup games
+- A match is decided by best of 5 games
+- One player may start with a point advantage
+- A set is played once one player reaches 11 points + the advantage points (example: 1 player gets a 5 point advantage, a set lasts until one player scores 16)
+- The advantage is maximum 16 points
+- No 2 point difference required
+
+## Master games
+- A match is decided by best of 3 games
+- A set is played until one player gets 21 points
+- No 2 point difference required
+
 # Pages
 
 ## Landing page (Regular)
