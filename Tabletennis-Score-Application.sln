@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabletennis-Score-Application", "Tabletennis-Score-Application\Tabletennis-Score-Application.csproj", "{37275437-5493-4105-B280-AA456544C9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37275437-5493-4105-B280-AA456544C9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37275437-5493-4105-B280-AA456544C9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37275437-5493-4105-B280-AA456544C9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37275437-5493-4105-B280-AA456544C9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B27513-75C7-4388-85A5-230926FB3AA5}
+	EndGlobalSection
+EndGlobal
