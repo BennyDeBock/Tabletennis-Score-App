@@ -1,10 +1,8 @@
 # Tabletennis-Score-App
----
 A rewrite of the original Table Tennis score appllication in C# with added features
 
 
 # Purpose of this App
----
 The original purpose of the app was a way to easily print match sheets for our club.
 The app I'm developing will be converting visual basic to C# for easier management later down the line
 
@@ -13,7 +11,6 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - Automatic filling in of the home team name
 
 # Pages
----
 
 ## Landing page (Regular)
 ![Landing Page](/Layout/FirstPanel.png)
@@ -36,21 +33,21 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - **Ga naar wedstrijdblad:** Go to the score view without printing game letters **SHOULD ONLY WORK IF ALL INFORMATION IS FILLED IN**
 
 ## Landing page (Cup Match)
-![Landing Page](/Layout/FirstPanelCup.png)
+![Landing Page Cup](/Layout/FirstPanelCup.png)
   
 ### Changes
 - Afdeling dissappears. Can't be filled in anymore
 - Geef ronde in: New dropdown bar, you have to choose from a pre-defined list
 
 ## Landing page (Masters Match)
-![Landing Page](/Layout/FirstPanelMasters.png)
+![Landing Page Masters](/Layout/FirstPanelMasters.png)
 
 ### Changes
 - Afdeling dissappears. Can't be filled in anymore
 - Only allowed to choose 2 players instead of 3
 
 ## Scoring page (Regular)
-![Landing Page](/Layout/ScorePanel.png)
+![Scoring page](/Layout/ScorePanel.png)
 
 ### Rules
 - Team, Player, Rank, Value and Teamvalue have to be transfered from the landing page
@@ -65,14 +62,14 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - **Ingave controleren en wedstrijdblad afprinten:** Checks all scores/matches for any fault. Gives an error message and highlights the mistakes if there are mistakes. Otherwise, print the game paper.
 
 ## Scoring page (Cup Match)
-![Landing Page](/Layout/ScorePanelCup.png)
+![Scoring page Cup](/Layout/ScorePanelCup.png)
 
 ### Changes
 - **Voorgift:** automatically calculate advantage based on difference in player's values
 - **Ingave controleren:** checks for mistakes according to the rules of a cup match
 
 ## Scoring page (Masters Match)
-![Landing Page](/Layout/ScorePanelMasters.png)
+![Scoring page Masters](/Layout/ScorePanelMasters.png)
 
 ### Changes
 - **Voorgift:** automatically calculate advantage based on difference in player's values
@@ -80,16 +77,15 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 - Double is pre-defined as there are only 2 players/team
 
 # Before printing the game paper
----
 
 ## Ending hour of the game
-![Landing Page](/Layout/HourEnd.png)
+![End hour](/Layout/HourEnd.png)
 
 ### Rules
 - Has to be manually given in the format XXuYY where XX = hours and YY = minutes
 
 ## Eventual accidents
-![Landing Page](/Layout/Accidents.png)
+![Accidents](/Layout/Accidents.png)
 
 ### Rules
 - Prompt Yes or no for eventual accidents/comments
