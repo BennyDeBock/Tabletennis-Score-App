@@ -8,3 +8,7 @@ The app I'm developing will be converting visual basic to C# for easier manageme
 
 ## Features to add
 - Automatic member retrieval
+
+# Pages
+
+![Landing Page](/Layout/FirstPanel.png)
